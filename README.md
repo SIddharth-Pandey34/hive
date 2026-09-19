@@ -219,7 +219,7 @@ python simulate_sensors.py --loop
   <tr>
     <td><b>🔬 Siddharth</b></td>
     <td>Research & Development (R&D)</td>
-    <td>📝 Coming Soon</td>
+    <td><a href="<https://github.com/SIddharth-Pandey34">@SIddharth-Pandey34</a>/td>
   </tr>
 </table>
 
