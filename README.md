@@ -10,7 +10,7 @@
 
 | Feature | Status | Notes |
 |---|---|---|
-| 🍁 Bottle authenticity verification | ✅ Real | Server-side (`/api/verify`), backed by a JSON data store |
+| 🍁 Bottle Authenticity Verification | ✅ Real | Server-side (`/api/verify`), backed by a JSON data store |
 | ⛓️ Blockchain record of bottle verification | ✅ Real | Written live to a `HoneyLedger` smart contract on Ethereum **Sepolia testnet** (see `blockchain.py`) |
 | 📱 QR code for bottle verification | ✅ Real | Generated server-side (`/api/qr/<token>`), scans open the live verification page |
 | 🤖 AI hive health / yield prediction | ✅ Real | Trained scikit-learn RandomForest model (`train_model.py`), not a hardcoded formula |
